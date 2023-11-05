@@ -1,0 +1,32 @@
+Whitepaper Analysis
+
+Objective:
+The objective of this coding assignment is to promote a deep understanding of Quorum's whitepapers and technical documentation. Analyzing whitepapers and technical documents is crucial for gaining insights into the inner workings of Quorum and its various components.
+
+Instructions:
+
+Selecting a Whitepaper or Technical Document:
+
+Provide students with a list of Quorum whitepapers and technical documents or direct them to the official Quorum documentation website.
+Instruct each student to choose one document that interests them the most. They should select a document related to a specific aspect of Quorum, such as consensus algorithms, privacy features, or smart contract development.
+Document Analysis:
+
+Ask students to thoroughly read and analyze the chosen document. They should focus on understanding the technical concepts and innovations presented in the document.
+Encourage students to take notes and highlight key sections, diagrams, or explanations that they find significant.
+Summary and Interpretation:
+
+Require students to write a detailed summary of the document's content. Their summaries should include:
+An explanation of the technical concepts or innovations discussed.
+Examples or use cases where the concepts are applicable.
+Insights into how the document's content contributes to Quorum's capabilities.
+Class Sharing and Discussion:
+
+Encourage students to share their summaries with the class during a designated discussion session.
+In the discussion, students should present their findings and insights from the document.
+Facilitate a class discussion where students can ask questions, seek clarifications, and engage in meaningful conversations about the document's significance.
+Grading Criteria:
+Evaluate students based on the following criteria:
+
+The completeness and depth of their document analysis.
+The accuracy of their summary and interpretation of the document's content.
+Active participation in the class discussion and the ability to articulate insights and ask thoughtful questions.

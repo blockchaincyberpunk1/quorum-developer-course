@@ -1,0 +1,31 @@
+ Privacy in Enterprise Blockchain
+
+Objective:
+The objective of this assignment is to prompt students to reflect on the significance of privacy in enterprise blockchain solutions. By completing this assignment, students will gain a deeper understanding of the challenges and solutions related to privacy in enterprise blockchain projects.
+
+Instructions:
+
+Selecting a Resource:
+
+Assign each student or group a research paper, case study, or article related to privacy considerations in enterprise blockchain projects. Ensure that the chosen resources provide insights into the challenges and solutions related to privacy.
+Resource Analysis:
+
+Instruct students to thoroughly analyze the assigned resource. They should:
+Summarize the key points and findings presented in the resource.
+Identify the specific privacy challenges mentioned in the context of enterprise blockchain.
+Highlight any innovative solutions or approaches discussed for addressing privacy concerns.
+Connection to Private Transactions and Tessera:
+
+Encourage students to draw connections between the concepts they have learned about private transactions and Tessera in Quorum and the broader context of privacy in enterprise blockchain.
+Ask students to reflect on how the principles and technologies discussed in their resource relate to the concepts of private transactions and privacy-enhancing tools like Tessera.
+Reflective Analysis:
+
+Prompt students to provide their own critical analysis and insights regarding the importance of privacy in enterprise blockchain. They should consider questions such as:
+Why is privacy crucial for enterprise blockchain solutions?
+What are the potential consequences of inadequate privacy measures in such projects?
+How do innovative solutions discussed in the resource align with the principles of privacy and data protection?
+Report Submission:
+
+Students should submit a report that includes their analysis of the assigned resource, their reflections on the importance of privacy in enterprise blockchain, and their connections to private transactions and Tessera.
+Grading Criteria:
+Evaluate students based on the depth of their analysis of the assigned resource, their ability to connect the resource's insights to the concepts of private transactions and Tessera, and their reflective analysis of the importance of privacy in enterprise blockchain.

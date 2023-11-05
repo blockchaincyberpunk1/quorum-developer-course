@@ -1,0 +1,31 @@
+Private Transactions Exploration
+
+Objective:
+The objective of this assignment is to give students hands-on experience with Quorum's private transaction functionality. By completing this assignment, students will gain practical knowledge of how to set up a Quorum development environment and conduct private transactions.
+
+Instructions:
+
+Setting Up the Quorum Environment:
+
+Provide students with detailed instructions on how to set up a Quorum development environment. You can guide them on using tools like Docker or other suitable methods.
+Ensure that the development environment includes multiple nodes or participants to facilitate private transactions.
+Private Transactions Task:
+
+Assign students the task of creating a set of private transactions within their Quorum network.
+Specify the scenario for the private transactions. For example, it could be a simple transfer of assets between two participants while keeping the transaction details private.
+Documentation:
+
+Instruct students to document the entire process, including:
+Step-by-step instructions on how they set up their Quorum development environment.
+Details of the private transaction scenario, such as the sender, receiver, and transaction amount.
+Privacy Configurations: Explain the privacy configurations used for the transactions. Students should describe how privacy was achieved, including the use of private smart contracts or confidential transactions.
+Observations and Challenges: Ask students to document any observations or challenges they encountered while creating and executing the private transactions.
+Reflection and Analysis:
+
+Require students to reflect on the significance of private transactions in blockchain networks. What are the use cases and advantages of keeping certain transactions confidential?
+Encourage students to analyze how Quorum's privacy features address the need for privacy in blockchain applications.
+Submission:
+
+Students should submit a report that includes their documentation, observations, and reflections.
+Grading Criteria:
+Evaluate students based on their ability to successfully set up a Quorum development environment, execute private transactions, and document the process effectively. Consider their reflections on the importance of privacy in blockchain networks and how Quorum addresses this need.

@@ -1,0 +1,43 @@
+Auditing Smart Contracts
+
+Objective:
+The objective of this coding assignment is to teach students how to audit and analyze smart contracts for security and compliance. Students will be provided with a set of Quorum smart contracts and tasked with performing a security audit. This exercise will help students identify security issues, vulnerabilities, and propose improvements.
+
+Instructions:
+
+Introduction to Smart Contract Auditing:
+
+Begin by introducing the importance of smart contract auditing for security and compliance.
+Explain the role of automated analysis tools (e.g., MythX) and manual code review in auditing smart contracts.
+Assignment Description:
+
+Provide students with a set of Quorum smart contracts. These contracts may have vulnerabilities or security issues.
+Instruct students to perform a comprehensive security audit of the provided contracts using one or both of the following methods:
+Automated analysis tools: Students can use tools like MythX to automatically scan the contract code for vulnerabilities.
+Manual code review: Students should manually review the contract code to identify security issues.
+Identifying Security Issues:
+
+Ask students to document any security issues or vulnerabilities they identify during the audit process. This may include issues like reentrancy vulnerabilities, unchecked external calls, integer overflows, etc.
+Students should provide clear explanations of each identified issue and describe its potential impact.
+Creating an Audit Report:
+
+Instruct students to compile their findings into a detailed audit report. The report should include:
+A list of identified security issues and vulnerabilities.
+Descriptions of each issue, including the affected code.
+An assessment of the potential risks associated with each issue.
+Recommendations for mitigating the identified risks.
+Proposing Improvements:
+
+Challenge students to propose code modifications or improvements to the provided contracts that would mitigate the identified security issues.
+Students should provide code snippets or descriptions of the changes required to enhance the contracts' security.
+Submission:
+
+Request students to submit their audit reports, including details of identified security issues and proposed improvements.
+Grading Criteria:
+Evaluate students based on the following criteria:
+
+Accuracy and thoroughness of identifying security issues.
+Clarity and completeness of the audit report.
+Thoughtful and effective proposals for code improvements.
+Demonstration of understanding of smart contract security concepts.
+Compliance with audit instructions and guidelines.

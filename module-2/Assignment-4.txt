@@ -1,0 +1,36 @@
+Privacy Use Case Exploration
+
+Objective:
+The objective of this assignment is to challenge students to identify and analyze a real-world use case where Quorum's private transactions and Tessera can be applied effectively. By completing this assignment, students will gain practical insights into how Quorum's privacy features can address specific privacy needs in various industries.
+
+Instructions:
+
+Selecting an Industry:
+
+Assign each student or group a specific industry from a list of options (e.g., finance, healthcare, supply chain).
+Instruct students to choose one industry from the list for their assignment.
+Identifying a Use Case:
+
+Within their chosen industry, students should research and identify a specific use case where privacy is a critical requirement. The use case should involve the sharing or transfer of sensitive information or data.
+Research and Analysis:
+
+Students should conduct in-depth research into their chosen use case, focusing on the following aspects:
+Describe the use case and its significance within the chosen industry.
+Explain why privacy is a crucial concern in this use case.
+Identify the types of sensitive data or transactions involved.
+Analyze potential privacy risks and challenges associated with the use case.
+Quorum's Privacy Features:
+
+Instruct students to explore and explain how Quorum's privacy features, including private transactions and Tessera, can address the privacy needs and challenges identified in their chosen use case.
+Describe how private transactions work in Quorum and how they can be applied to the use case.
+Explain the role of Tessera in enhancing privacy and secure data sharing.
+Presentation and Recommendations:
+
+Require students to create a presentation (slides or a report) that outlines their findings and recommendations.
+Presentations should include clear explanations of the chosen use case, privacy concerns, and how Quorum's features can mitigate those concerns.
+Encourage students to provide practical recommendations for implementing Quorum in their chosen industry and use case.
+Class Presentation:
+
+Organize a class presentation session where each student or group presents their chosen use case, analysis, and recommendations to the class.
+Grading Criteria:
+Evaluate students based on the depth of their research, the clarity of their analysis, their understanding of Quorum's privacy features, and the practicality of their recommendations for applying Quorum in the chosen use case.

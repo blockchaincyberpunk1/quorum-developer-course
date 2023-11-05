@@ -1,0 +1,40 @@
+Comparing Solidity and Quorum Contracts
+
+Objective:
+The objective of this assignment is to enable students to analyze and differentiate between smart contracts developed for Ethereum using Solidity and those designed for Quorum. Students will research and prepare a comparative analysis highlighting key similarities and differences, with a particular focus on the privacy features unique to Quorum. They will also discuss the advantages and disadvantages of using Quorum for specific use cases compared to Ethereum.
+
+Instructions:
+
+Research and Analysis:
+
+Instruct students to conduct research on the Solidity programming language and its use in Ethereum smart contracts.
+Ask them to explore the features and capabilities of Quorum, especially those related to privacy enhancements, such as private transactions and confidential contracts.
+Create a Comparative Analysis:
+
+Task students with creating a comparative analysis between Solidity-based Ethereum contracts and Quorum-based contracts.
+Encourage them to use a table, chart, or similar visual representation to highlight key similarities and differences between the two contract types.
+Include categories such as programming language, consensus mechanism, privacy features, use cases, and advantages/disadvantages.
+Focus on Privacy Features:
+
+Emphasize the importance of comparing the privacy features unique to Quorum with those not available in Ethereum.
+Ask students to explain how Quorum's privacy features, such as private transactions and confidential contracts, provide advantages in certain use cases.
+Advantages and Disadvantages:
+
+Instruct students to discuss the advantages of using Quorum for specific use cases compared to Ethereum.
+Encourage them to consider scenarios where privacy, confidentiality, or enterprise-level features are essential.
+Also, have students identify any disadvantages or limitations of Quorum compared to Ethereum for certain use cases.
+Real-World Examples (Optional):
+
+Optionally, students can include real-world examples or case studies where Quorum's privacy features have been instrumental.
+Presentation or Report:
+
+Require students to present their comparative analysis as a report or presentation.
+If it's a report, instruct them to write an introduction, include the comparative analysis section, discuss the advantages and disadvantages, and conclude with their insights.
+Submission:
+
+Have students submit their reports or presentations for evaluation.
+Assessment:
+
+Evaluate students based on the depth of their comparative analysis, their ability to highlight important distinctions between Solidity and Quorum contracts, their consideration of privacy features, and the clarity of their presentation or report.
+Grading Criteria:
+Assess students based on the quality and thoroughness of their comparative analysis, their ability to clearly present key similarities and differences, and their understanding of the advantages and disadvantages of using Quorum compared to Ethereum, especially in the context of privacy and enterprise use cases.

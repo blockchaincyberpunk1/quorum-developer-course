@@ -1,0 +1,36 @@
+Virtual Conference Attendance and Reflection
+
+Objective:
+The objective of this coding assignment is to give students the opportunity to attend a virtual Quorum or blockchain development conference. Attending such conferences can provide valuable insights into the latest trends, technologies, and developments in the field.
+
+Instructions:
+
+Introduction to Virtual Conference Attendance:
+
+Explain the importance of staying updated with the latest trends and developments in the blockchain and Quorum ecosystem.
+Provide information about an upcoming virtual Quorum or blockchain-related conference, including details on registration and event schedule.
+Conference Registration:
+
+Instruct students to register for the virtual conference by following the provided registration link or instructions.
+Ensure that students understand any registration deadlines or requirements.
+Conference Participation:
+
+Ask students to actively participate in the virtual conference by attending specific sessions, workshops, or keynote speeches.
+Encourage them to explore topics that align with their interests or areas of focus within blockchain development.
+Reflection and Summary:
+
+After attending the conference, require students to write a reflection or summary of their experience.
+In their reflection, students should:
+Highlight key insights, trends, or technologies discussed during the conference.
+Identify any noteworthy presentations or speakers.
+Reflect on how the knowledge gained from the conference can be applied to their future work or projects.
+Share any personal takeaways or inspirations from the event.
+Submission:
+
+Instruct students to submit their reflection or summary of the virtual conference experience.
+Grading Criteria:
+Evaluate students based on the following criteria:
+
+The completeness and depth of their reflection or summary.
+Their ability to identify and articulate key insights and trends from the conference.
+Demonstrated understanding of how the conference content relates to blockchain development and Quorum.

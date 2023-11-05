@@ -1,0 +1,55 @@
+Navigating Private Transactions with Tessera: A Beginner's Guide to Creating Private Transactions on Quorum
+
+Introduction:
+
+For beginner Quorum developers, delving into the world of private transactions and understanding the technicalities behind their creation is essential for building secure and confidential blockchain applications. This article takes you on a technical exploration of how to create private transactions on Quorum, focusing on the integration of Tessera for encryption. By the end of this article, you'll have a solid grasp of how Tessera enables private transactions and maintains confidentiality within the Quorum blockchain framework.
+
+Creating Private Transactions: A Step-by-Step Guide
+
+Understanding Private Transactions:
+
+Recap the concept of private transactions and their role in preserving the confidentiality of sensitive data.
+
+Tessera Integration: The Role of Tessera in Facilitating Private Transactions
+
+Introducing Tessera:
+
+Get acquainted with Tessera, the privacy layer designed to provide encryption and privacy features for transactions on Quorum.
+
+Encryption Mechanisms: How Tessera Ensures Confidentiality
+
+Onion Encryption:
+
+Dive into the onion encryption technique employed by Tessera to secure the contents of private transactions, ensuring only authorized participants can access the data.
+
+Privacy Marker Transactions:
+
+Understand how Tessera uses privacy marker transactions to indicate the presence of private transactions while keeping their details hidden.
+
+Creating Private Transactions with Tessera: A Step-by-Step Walkthrough
+
+Setting Up Tessera:
+
+Follow a step-by-step guide to setting up Tessera within your Quorum network to enable private transaction capabilities.
+
+Configuring Privacy Modes:
+
+Learn how to configure different privacy modes in Tessera to align with your application's privacy requirements.
+
+Sending Private Transactions: A Practical Demonstration
+
+Scenario Setup:
+
+A beginner Quorum developer sets up a test environment to showcase the creation of private transactions using Tessera.
+
+Creating a Private Transaction:
+
+The developer demonstrates how to create a private transaction, emphasizing the role of Tessera in encrypting the transaction data.
+
+Verifying Confidentiality:
+
+The developer validates the confidentiality of the private transaction by attempting to access its details without authorization.
+
+Conclusion: Unlocking the Power of Private Transactions with Tessera
+
+As a beginner Quorum developer, diving into the realm of private transactions and Tessera integration empowers you to build blockchain applications that prioritize confidentiality and data security. This article provided a technical exploration of creating private transactions on Quorum, with an emphasis on the role of Tessera in enabling encryption. By understanding the intricacies of onion encryption and privacy marker transactions, you're equipped to create secure and confidential transactions in your Quorum applications. With Tessera as your ally, you're well-prepared to harness the potential of private transactions and contribute to the advancement of secure blockchain solutions.

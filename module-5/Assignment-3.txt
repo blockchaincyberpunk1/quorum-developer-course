@@ -1,0 +1,37 @@
+Integration Implementation
+
+Objective:
+The objective of this assignment is to provide students with hands-on experience in integrating Quorum with enterprise systems. Students will choose an enterprise system from a provided list and develop a proof-of-concept (PoC) integration project using Quorum.
+
+Instructions:
+
+Introduction to Integration with Enterprise Systems:
+
+Provide an introduction to the significance of integrating blockchain technology, specifically Quorum, with enterprise systems.
+Explain the potential benefits of such integrations, such as improved data transparency, security, and efficiency.
+Assignment of Enterprise Systems:
+
+Distribute a list of enterprise systems or databases to students. Ensure that the list includes a variety of systems commonly used in different industries (e.g., SAP, Salesforce, Oracle, etc.).
+Ask each student or group of students to choose one enterprise system from the provided list. Make sure that each system is chosen by at least one student.
+Proof-of-Concept (PoC) Development:
+
+Instruct students to develop a PoC integration project that connects Quorum with the chosen enterprise system.
+Encourage students to consider the specific use case for their integration, such as data synchronization, smart contract triggers, or any other relevant application.
+Documentation:
+
+Request students to thoroughly document their integration process, including:
+Detailed explanation of the chosen enterprise system and its significance in the industry.
+Architecture of the integration project, including APIs, connectors, and data flow.
+Technical details of the Quorum-based solution.
+Challenges faced during the integration process and how they were addressed.
+Outcomes and benefits achieved through the PoC.
+Any future improvements or scalability considerations.
+Demo or Presentation:
+
+Ask students to provide a demo or presentation of their PoC integration project to the class. This can be done in person or virtually, depending on the class format.
+Assessment:
+
+Evaluate students based on the quality of their integration project, their ability to explain the technical aspects of the integration, and the relevance of their chosen enterprise system.
+Consider the clarity and effectiveness of their demos or presentations.
+Grading Criteria:
+Assess students based on the completeness and functionality of their integration PoC, their documentation of the integration process, and their ability to present their work effectively to the class. Consider the practicality and real-world applicability of their integration solutions.

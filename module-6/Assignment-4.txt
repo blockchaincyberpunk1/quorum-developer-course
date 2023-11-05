@@ -1,0 +1,41 @@
+Regulatory Compliance in Smart Contracts
+
+Objective:
+The objective of this coding assignment is to teach students how to ensure regulatory compliance in smart contracts. Students will be assigned a specific regulatory framework (e.g., GDPR, HIPAA, or financial regulations) and provided with a sample smart contract related to the chosen framework. They will be tasked with reviewing and modifying the smart contract to ensure compliance with the specified regulations, focusing on data protection, access control, and auditability.
+
+Instructions:
+
+Introduction to Regulatory Compliance in Smart Contracts:
+
+Begin by introducing the importance of regulatory compliance in the context of smart contracts.
+Explain that different industries and regions have specific regulations that smart contracts must adhere to.
+Assignment Description:
+
+Assign each student or group of students a specific regulatory framework to focus on (e.g., GDPR, HIPAA, financial regulations).
+Provide students with a sample smart contract that is relevant to the chosen regulatory framework. This contract may handle sensitive data, financial transactions, or other regulated activities.
+Instruct students to review the provided smart contract and identify areas where it may not comply with the specified regulations.
+Ensuring Regulatory Compliance:
+
+Ask students to modify the provided smart contract to ensure compliance with the chosen regulatory framework. Focus on the following aspects:
+Data protection: Ensure that any handling of personal or sensitive data complies with data protection regulations.
+Access control: Implement appropriate access control mechanisms to restrict data access to authorized parties.
+Auditability: Enhance the contract's auditability to enable compliance monitoring and reporting.
+Documentation:
+
+Request students to document their compliance modifications to the smart contract. The documentation should include:
+Descriptions of the changes made to the contract.
+Explanations of how the modified contract complies with the chosen regulations.
+Any additional code or logic added to enforce compliance.
+Testing and Validation:
+
+Encourage students to test the modified smart contract to ensure that it functions correctly while adhering to the regulatory requirements.
+Submission:
+
+Instruct students to submit their modified smart contract along with the compliance documentation.
+Grading Criteria:
+Evaluate students based on the following criteria:
+
+Accuracy and effectiveness of modifications to ensure regulatory compliance.
+Clarity and completeness of compliance documentation.
+Demonstrated understanding of the chosen regulatory framework and its implications for smart contracts.
+Compliance with assignment instructions and guidelines.

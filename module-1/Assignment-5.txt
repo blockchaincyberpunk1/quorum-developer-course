@@ -1,0 +1,35 @@
+Blockchain Case Study Analysis
+
+Objective:
+The objective of this assignment is to engage students in analyzing a specific enterprise blockchain project that utilizes Quorum or a similar technology. Through this analysis, students will gain insights into real-world blockchain implementations and the role of Quorum in addressing enterprise needs.
+
+Instructions:
+
+Case Study Selection:
+
+Assign each student or group a specific enterprise blockchain case study. These case studies should involve projects that use Quorum or a similar technology.
+Encourage students to choose diverse case studies, spanning various industries like finance, supply chain, healthcare, or any relevant field.
+Analysis and Presentation:
+
+Instruct students to thoroughly dissect the assigned case study by addressing the following key points:
+Project Goals: What were the primary objectives of the blockchain project? What problem or inefficiency was it designed to solve?
+Architecture: Explain the technical architecture of the project, including blockchain components, consensus mechanisms, and any privacy features.
+Challenges Faced: Identify and discuss the challenges, obstacles, or issues the project encountered during its development or implementation.
+Outcomes: Describe the results and outcomes of the project. Did it achieve its intended goals, and if so, to what extent?
+Quorum's Role:
+
+Ask students to specifically examine the role of Quorum within the project. How did Quorum's features align with the project's goals and requirements?
+Encourage students to evaluate whether Quorum was the right choice for the project and justify their assessments.
+Suggestions for Improvement:
+
+Require students to provide their insights into areas where the project could have been improved or optimized. They should also consider whether other blockchain technologies could have been more suitable.
+Presentation or Report:
+
+Have students prepare a presentation or a detailed report summarizing their analysis of the assigned case study.
+Each student or group should present their findings, including key takeaways, challenges, and recommendations.
+Class Discussion:
+
+After the presentations, conduct a class discussion where students can share their insights and engage in critical discussions about the analyzed case studies.
+Encourage students to compare and contrast different projects and blockchain technologies.
+Grading Criteria:
+Assign grades based on the depth of analysis, critical thinking, and the ability to justify whether Quorum was an appropriate choice for the analyzed project. Consider the quality of recommendations and the clarity of presentation or report.

@@ -1,0 +1,30 @@
+Tessera Configuration and Setup
+
+Objective:
+The objective of this assignment is to introduce students to Tessera, the privacy manager for Quorum. By completing this assignment, students will become familiar with Tessera's role in enhancing the privacy of Quorum-based blockchain networks.
+
+Instructions:
+
+Understanding Tessera:
+
+Provide students with learning resources such as documentation, articles, or videos that explain the purpose and functionality of Tessera in Quorum.
+Ensure students have access to relevant Tessera resources and documentation.
+Tessera Configuration Task:
+
+Assign students the task of setting up Tessera for a Quorum network. You can guide them on how to install and configure Tessera.
+Specify the Quorum network configuration you want students to work with, such as the number of nodes and their roles (e.g., transaction managers and parties).
+Configuration Documentation:
+
+Instruct students to document the entire Tessera configuration process, including:
+Installation steps: Explain how they installed Tessera on their Quorum nodes.
+Configuration settings: Describe the key settings and configurations applied during the setup. Students should include details like encryption keys, network configurations, and privacy group settings.
+Interaction with Quorum: Explain how Tessera interacts with the Quorum nodes and how it manages private transactions.
+Significance of Tessera:
+
+Ask students to provide an explanation of the significance of Tessera in Quorum's privacy architecture. What role does Tessera play in enhancing the privacy and security of transactions?
+Encourage students to discuss how Tessera addresses privacy challenges in blockchain networks and why it is crucial for enterprise-grade applications.
+Submission:
+
+Students should submit a report that includes their documentation of the Tessera configuration process and their insights into the significance of Tessera in Quorum.
+Grading Criteria:
+Evaluate students based on their ability to successfully configure Tessera for a Quorum network and their documentation of the process. Assess their understanding of Tessera's role in enhancing Quorum's privacy and its importance in enterprise blockchain applications.

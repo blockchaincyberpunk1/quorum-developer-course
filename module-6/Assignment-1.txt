@@ -1,0 +1,40 @@
+Secure Smart Contract
+
+Objective:
+The objective of this coding assignment is to enable students to write a secure smart contract on the Quorum platform while following best practices for security and avoiding common vulnerabilities.
+
+Instructions:
+
+Introduction to Secure Smart Contracts:
+
+Begin by providing an overview of the importance of writing secure smart contracts. Emphasize the potential risks associated with vulnerabilities and security lapses in smart contracts.
+Assignment Description:
+
+Provide students with a simple smart contract template or describe a use case that requires a smart contract. Ensure that the contract includes functions and logic that allow for the application of security best practices.
+Example use cases could include a basic token contract, a voting contract, or a simple supply chain contract.
+Smart Contract Implementation:
+
+Instruct students to implement the smart contract using Solidity, adhering to security best practices throughout the development process.
+Emphasize the following security considerations:
+Input validation to prevent invalid or malicious data from being processed.
+Proper use of access modifiers (e.g., public, internal, private) to control access to functions and data.
+Avoidance of common vulnerabilities such as reentrancy, integer overflow, and unchecked external calls.
+Gas optimization to ensure efficient contract execution.
+Testing:
+
+Assign students the task of writing test cases to thoroughly test the functionality of their smart contract. Test cases should cover different scenarios and edge cases.
+Students should ensure that their tests validate the contract's functionality and security measures.
+Documentation and Comments:
+
+Encourage students to include comments and documentation in their contract code. Comments should explain the purpose of each function, any security-related decisions made, and how vulnerabilities are mitigated.
+Submission:
+
+Request students to submit their secure smart contract code along with the test cases and any relevant documentation.
+Grading Criteria:
+Evaluate students based on the following criteria:
+
+Adherence to security best practices.
+Effectiveness of input validation and access control.
+Mitigation of common vulnerabilities.
+Thoroughness and effectiveness of test cases.
+Clarity and completeness of comments and documentation.

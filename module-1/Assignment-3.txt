@@ -1,0 +1,32 @@
+Blockchain Basics Quiz
+
+Objective:
+The objective of this assignment is to assess students' understanding of fundamental blockchain concepts, ensuring they have a solid foundation in blockchain technology.
+
+Instructions:
+
+Quiz Creation:
+
+Create a quiz consisting of a set of multiple-choice and short-answer questions related to blockchain basics. The quiz should cover the following topics:
+Consensus Mechanisms: Questions about various consensus algorithms, such as Proof of Work (PoW) and Proof of Stake (PoS).
+Cryptographic Principles: Questions on cryptographic techniques used in blockchain, including hashing, digital signatures, and public-private key pairs.
+Distributed Ledgers: Questions about the concept of a distributed ledger, blockchain data structure, and decentralized validation.
+Blockchain Types: Questions distinguishing between public and private blockchains and their respective use cases.
+Blockchain Terminology: Questions covering essential blockchain terminology and concepts.
+Assignment Delivery:
+
+Assign the quiz to students using an online assessment platform, or provide it as a downloadable document.
+Specify the submission deadline and any additional instructions for completing the quiz.
+Quiz Submission:
+
+Collect students' completed quizzes either through the online assessment platform or by email if it's a written assignment.
+Grading and Feedback:
+
+Evaluate students' quiz responses and assign scores based on correctness and completeness.
+Provide individual feedback to each student, highlighting correct answers and explanations for incorrect ones.
+Class Review:
+
+After grading, discuss the quiz results and common misconceptions or areas of difficulty in class.
+Use this as an opportunity for clarification and reinforcing key blockchain concepts.
+Grading Criteria:
+Students will be assessed based on the accuracy of their responses to the quiz questions. Correctness, clarity, and understanding of the fundamental blockchain concepts will be considered in grading.

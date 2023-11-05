@@ -1,0 +1,47 @@
+Open-Source Contribution to Quorum Projects
+
+Objective:
+The objective of this coding assignment is to motivate and empower students to actively contribute to open-source Quorum projects. By participating in open-source development, students can gain hands-on experience, collaborate with the Quorum community, and enhance their programming skills.
+
+Instructions:
+
+Introduction to Open Source Contribution:
+
+Begin by explaining the importance of open-source software and its role in the Quorum ecosystem.
+Emphasize that contributing to open source not only benefits the community but also provides students with real-world development experience.
+Project Selection:
+
+Provide students with a list of open-source Quorum projects or repositories available on platforms like GitHub. Include projects with issues labeled as "beginner-friendly" or "good first issue."
+Instruct students to choose one project that aligns with their interests and skill level.
+Issue Identification:
+
+Ask students to explore their selected project and identify an issue (bug, feature request, documentation improvement, etc.) that they can work on.
+The identified issue should be feasible for a student with their current knowledge and skills.
+Forking and Cloning:
+
+Guide students on how to fork the selected project's repository to their own GitHub account.
+Instruct students to clone their forked repository to their local development environment.
+Code Contribution:
+
+Require students to make the necessary code changes to address the identified issue. They should follow best practices and coding standards relevant to the project.
+Testing and Documentation:
+
+Encourage students to thoroughly test their code changes to ensure they do not introduce new issues.
+Instruct students to provide clear and concise documentation of their changes within the project.
+Pull Request Submission:
+
+Ask students to submit a pull request (PR) to the original project's repository, explaining the purpose of their PR and referencing the identified issue.
+Students should actively engage with maintainers and address any feedback or review comments during the PR process.
+Documentation and Reflection:
+
+Require students to document their contribution journey, including the project selected, the issue addressed, and the PR submission.
+Ask students to reflect on the experience, highlighting what they learned and any challenges they encountered.
+Submission:
+
+Instruct students to submit their documentation of the open-source contribution, including links to their PRs and reflections.
+Grading Criteria:
+Evaluate students based on the following criteria:
+
+The quality and significance of the chosen open-source contribution (addressing a meaningful issue or enhancement).
+The completeness and accuracy of code changes, testing, and documentation.
+Active engagement with project maintainers and responsiveness to feedback.

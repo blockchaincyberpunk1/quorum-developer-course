@@ -1,0 +1,40 @@
+Secure Contract Upgrade in Quorum
+
+Objective:
+The objective of this coding assignment is to teach students how to perform secure contract upgrades on the Quorum blockchain platform. Students will be provided with a basic smart contract and tasked with enhancing the contract by adding new features or fixing issues while ensuring compatibility with existing deployments. Additionally, students will implement a secure upgrade mechanism to avoid data loss and write tests to confirm the successful upgrade and continued functionality of the contract.
+
+Instructions:
+
+Introduction to Secure Contract Upgrades:
+
+Begin by introducing the concept of secure contract upgrades and why they are essential in blockchain development.
+Explain that secure upgrades are necessary to introduce new features, fix bugs, or improve contract functionality without disrupting existing deployments.
+Assignment Description:
+
+Provide students with a basic smart contract that performs a simple function (e.g., a token contract or voting contract).
+Instruct students to identify areas where the contract can be improved, such as adding new features or fixing known issues.
+Emphasize that students must maintain backward compatibility with existing deployments of the contract.
+Contract Enhancement and Secure Upgrade:
+
+Ask students to enhance the provided smart contract by making the necessary changes and improvements.
+Instruct students to implement a secure upgrade mechanism within the contract that allows for seamless upgrades without data loss.
+Ensure that the contract can handle both old and new data structures.
+Consider how storage variables, state, and data migration will be managed during the upgrade.
+Testing and Validation:
+
+Challenge students to write comprehensive tests for the upgraded contract to confirm its successful deployment and continued functionality.
+Tests should cover both the old and new features to ensure that existing functionality remains intact after the upgrade.
+Documentation:
+
+Request students to document their contract upgrade process, including explanations of the changes made and the secure upgrade mechanism implemented.
+Encourage students to provide clear instructions on how to perform a secure upgrade of the contract in a real-world scenario.
+Submission:
+
+Instruct students to submit the enhanced smart contract, the secure upgrade mechanism, the test suite, and the documentation.
+Grading Criteria:
+Evaluate students based on the following criteria:
+
+Successful enhancement of the smart contract with added features or bug fixes.
+Implementation of a secure upgrade mechanism that maintains compatibility and avoids data loss.
+Completeness and correctness of the test suite, ensuring that all aspects of the contract are thoroughly tested.
+Clarity and completeness of the documentation, including clear instructions for secure contract upgrades.

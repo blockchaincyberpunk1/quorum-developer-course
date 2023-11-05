@@ -1,0 +1,36 @@
+Privacy and Security Discussion
+
+Objective:
+The objective of this assignment is to engage students in a discussion about the relationship between privacy and security in blockchain networks, with a focus on Quorum and similar platforms. By participating in this discussion, students will deepen their understanding of how privacy-enhancing features impact the overall security of blockchain systems.
+
+Instructions:
+
+Discussion Group Formation:
+
+Divide the students into virtual discussion groups, ensuring that each group has a mix of participants.
+Discussion Prompt:
+
+Provide the discussion groups with a central prompt or question related to the relationship between privacy and security in blockchain networks. Sample prompts include:
+"How can enhancing privacy also improve security in blockchain networks?"
+"What are the trade-offs between privacy and transparency in blockchain systems like Quorum?"
+"Discuss the role of privacy-focused features like Tessera in maintaining the security of blockchain networks."
+Discussion Session:
+
+Schedule a virtual discussion session for each group, allowing them to explore and respond to the prompt.
+Encourage active participation and thoughtful contributions from all group members.
+Instruct students to draw upon their knowledge of Quorum's privacy features, Tessera, and blockchain security principles during the discussion.
+Recording Insights:
+
+During the discussion session, students should take notes and record key insights, arguments, and perspectives shared by group members.
+Summary and Reflection:
+
+After the discussion session, instruct students to individually summarize the key points discussed in their group.
+Ask them to reflect on the insights gained and how the discussion has influenced their understanding of the interplay between privacy and security in blockchain networks.
+Submission:
+
+Require students to submit a written summary of their group discussion, including their reflections and any conclusions drawn.
+Evaluation:
+
+Evaluate students based on the quality of their contributions during the discussion, the depth of their reflections, and their ability to critically analyze the relationship between privacy and security in blockchain networks.
+Grading Criteria:
+Assess students based on the clarity and relevance of their contributions to the discussion, their ability to consider multiple viewpoints, and the thoughtfulness of their reflections.

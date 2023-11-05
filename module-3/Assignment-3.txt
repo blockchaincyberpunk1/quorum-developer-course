@@ -1,0 +1,45 @@
+Smart Contract Development with Solidity
+
+Objective:
+The objective of this assignment is to further strengthen students' skills in Solidity development by providing a more complex smart contract scenario or problem statement. Students will design and implement a Solidity smart contract solution, incorporating Quorum-specific features when applicable, such as private transactions or custom privacy settings.
+
+Instructions:
+
+Problem Statement:
+
+Provide students with a more complex smart contract scenario or problem statement. This scenario should involve multiple contract interactions, complex logic, or a specific business use case.
+Encourage students to consider the use of private transactions or custom privacy settings offered by Quorum if applicable to the scenario.
+Smart Contract Development:
+
+Instruct students to:
+Analyze the problem statement and define the requirements for their Solidity smart contract.
+Design and implement the Solidity smart contract solution based on the provided scenario.
+Utilize Solidity best practices and Quorum-specific features when relevant.
+Include thorough comments and explanations in their code to enhance understanding.
+Privacy Considerations:
+
+If the problem statement involves privacy-sensitive data, require students to implement privacy features using Quorum's capabilities (e.g., private transactions or private smart contracts).
+Encourage students to document their privacy considerations in their README document.
+Documentation (README):
+
+Ask students to create a comprehensive README document that accompanies their code submission. The README should include:
+An introduction to the smart contract scenario and its purpose.
+Detailed explanations of key elements and functions in the code.
+Instructions on how to deploy and interact with the smart contract.
+Information on any privacy features or settings implemented and why they were chosen.
+Code usage examples and testing procedures.
+Testing and Deployment:
+
+Encourage students to thoroughly test their Solidity smart contract on a development blockchain or testnet.
+Provide guidance on how to deploy the smart contract and perform testing.
+Submission:
+
+Have students submit both their Solidity code and the accompanying README document.
+Peer Review (Optional):
+
+Optionally, facilitate a peer review process where students review and provide feedback on each other's code and README documentation.
+Assessment:
+
+Evaluate students based on the correctness and functionality of their Solidity smart contract, the clarity and comprehensiveness of their README documentation, and their ability to apply privacy considerations where applicable.
+Grading Criteria:
+Assess students based on the quality and complexity of their Solidity smart contract solution, their documentation quality, and their incorporation of privacy features when relevant. Consider adherence to best practices, code correctness, and the clarity of explanations in the README document.

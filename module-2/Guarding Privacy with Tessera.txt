@@ -1,0 +1,47 @@
+Guarding Privacy with Tessera: An Introduction to Quorum's Privacy Manager
+
+Introduction:
+
+In the realm of Quorum development, ensuring transaction privacy is of paramount importance, especially for enterprise applications. As a beginner Quorum developer, understanding the role of Tessera in handling transaction privacy is essential for building secure and confidential applications. This article aims to provide you with an insightful overview of Tessera, Quorum's privacy manager, empowering you to navigate the world of Quorum development with a focus on data privacy.
+
+Tessera: The Guardian of Transaction Privacy:
+
+Defining Tessera:
+
+Tessera is a privacy manager integrated with Quorum that handles transaction privacy by encrypting payload data.
+
+The Role of Tessera:
+
+Tessera is responsible for managing the encryption and decryption of private transaction data, ensuring that sensitive information remains confidential.
+
+How Tessera Works:
+
+Tessera utilizes state-of-the-art encryption techniques to secure payload data, preventing unauthorized access and ensuring data privacy.
+
+Encryption and Decryption: A Closer Look at Tessera's Operations:
+
+Transaction Encryption:
+
+Tessera encrypts payload data before it is included in a private transaction, rendering the information unreadable to unauthorized parties.
+
+Transaction Decryption:
+
+Authorized participants use their private keys to decrypt the encrypted payload data, gaining access to the original information.
+
+Example Scenario: Implementing Tessera for Transaction Privacy in a Financial Network:
+
+Setting Up a Financial Network:
+
+A beginner Quorum developer establishes a financial network to demonstrate the implementation of Tessera for transaction privacy.
+
+Encrypting Private Transactions:
+
+The developer showcases how Tessera encrypts payload data in private transactions to safeguard sensitive financial information.
+
+Decrypting Private Transactions:
+
+The developer explains how authorized participants use their private keys to decrypt the encrypted payload data and access the original information.
+
+Conclusion: Elevating Privacy and Security with Tessera
+
+For beginner Quorum developers, comprehending the role of Tessera in handling transaction privacy is pivotal for creating secure and confidential applications. This article provided an overview of Tessera, its role in encrypting and decrypting payload data, and its significance in transaction privacy. The example scenario showcased the practical application of Tessera in a financial network. Equipped with this knowledge, you can confidently embark on your journey to develop innovative and secure blockchain solutions on the Quorum platform, contributing to the evolution of privacy-focused enterprise blockchain applications.

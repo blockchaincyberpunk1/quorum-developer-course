@@ -1,0 +1,36 @@
+Private Transactions Exploration
+
+Objective:
+The objective of this assignment is to ensure that students have a comprehensive understanding of private transactions on the Quorum blockchain. Students will explore the functionality of private transactions and identify real-world use cases where privacy and confidentiality are crucial in an enterprise context.
+
+Instructions:
+
+Overview of Quorum's Private Transaction Functionality:
+
+Provide students with a detailed overview of Quorum's private transaction functionality. Explain how private transactions in Quorum differ from public transactions in terms of confidentiality and privacy features.
+Research and Identification of Use Cases:
+
+Assign students the task of researching and identifying three real-world use cases where private transactions are crucial for maintaining confidentiality.
+Encourage students to consider various industries such as finance, supply chain, healthcare, or others.
+Explanation of Use Cases:
+
+Instruct students to provide a clear and detailed explanation of each identified use case.
+For each use case, they should:
+Describe the specific scenario or problem where confidentiality is essential.
+Explain why traditional public transactions may not be suitable for addressing these scenarios.
+Discuss the potential consequences of lacking privacy in these use cases.
+Real-World Examples:
+
+Ask students to provide real-world examples or analogies that illustrate the advantages of private transactions in the identified use cases.
+Encourage them to think critically about how privacy can enhance operations and security in these scenarios.
+Enterprise Context:
+
+Emphasize that students should consider the use cases within the context of enterprise environments. Discuss the implications of private transactions for businesses and organizations.
+Submission:
+
+Have students submit their research findings and explanations in a written report format.
+Assessment:
+
+Evaluate students based on the clarity and depth of their explanations of the use cases, their ability to identify scenarios where privacy is crucial, and their understanding of the value of private transactions in enterprise settings.
+Grading Criteria:
+Assess students based on the quality of their research, the relevance of their chosen use cases, and their ability to articulate why privacy is essential in each scenario. Additionally, consider their understanding of how Quorum's private transaction features align with real-world privacy needs in enterprise blockchain applications.

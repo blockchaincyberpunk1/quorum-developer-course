@@ -1,0 +1,32 @@
+Quorum vs. Public Blockchains
+
+Objective:
+The objective of this assignment is to help students understand the differences between Quorum and public blockchain networks, enabling them to make informed decisions about when to use Quorum in enterprise settings.
+
+Instructions:
+
+Comparison Analysis:
+
+Ask students to compare and contrast Quorum, an enterprise-focused blockchain platform, with public blockchain networks like Ethereum. They should focus on the following aspects:
+Architecture: Analyze and describe the architectural differences between Quorum and public blockchains. Consider factors such as permissioning, network setup, and node types.
+Consensus Mechanisms: Explain the consensus mechanisms employed by Quorum and public blockchains. Discuss how these mechanisms impact network security and performance.
+Privacy Features: Investigate the privacy features and tools available in Quorum and public blockchains. Evaluate the level of data privacy and confidentiality each platform offers.
+Advantages and Disadvantages:
+
+Instruct students to create a document or presentation that highlights the advantages and disadvantages of using Quorum in enterprise settings compared to public blockchains.
+Encourage them to provide specific examples or use cases where Quorum might be a better fit due to its architecture, consensus mechanisms, or privacy features.
+Scenarios and Examples:
+
+Require students to provide real-world scenarios or business cases where Quorum's characteristics make it a preferred choice over public blockchains. These scenarios should illustrate the practical applications of Quorum's features.
+Presentation:
+
+Have students present their findings to the class, either through a document or a presentation. Emphasize the need for clarity and effective communication.
+Discussion:
+
+After each presentation, facilitate a class discussion where students can ask questions and engage in dialogue about the comparisons and examples presented.
+Encourage students to think critically about the trade-offs and considerations when choosing between Quorum and public blockchains.
+Grading and Evaluation:
+
+Evaluate students based on the depth of their analysis, the clarity of their presentations or documents, their ability to provide relevant examples, and their contributions to class discussions.
+Grading Criteria:
+Students will be assessed on their ability to articulate the differences between Quorum and public blockchains, provide practical examples, and engage in meaningful class discussions.

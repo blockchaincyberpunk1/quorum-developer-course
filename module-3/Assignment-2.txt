@@ -1,0 +1,42 @@
+Introduction to Solidity
+
+Objective:
+The objective of this assignment is to familiarize students with Solidity, the smart contract language used in Quorum and Ethereum. Students will learn the basics of Solidity, including its syntax, data types, variables, and control structures, and apply this knowledge by writing a simple Solidity smart contract.
+
+Instructions:
+
+Solidity Basics:
+
+Provide students with learning materials or resources that introduce the basics of Solidity, including its syntax, data types, variables, and control structures. Offer examples and code snippets to illustrate key concepts.
+Coding Exercise:
+
+Assign a coding exercise to students where they need to write a simple Solidity smart contract. Possible contract options include:
+A token contract (e.g., an ERC-20 token).
+A basic voting contract.
+A simple decentralized application (DApp) contract.
+Smart Contract Development:
+
+Instruct students to:
+Choose one of the suggested contract types or propose their own, with approval.
+Develop the Solidity smart contract according to the requirements provided.
+Include comments and explanations in their code to clarify the purpose and functionality of key elements and functions.
+Documentation:
+
+Require students to provide documentation alongside their code submission. The documentation should include:
+A brief introduction to the chosen contract type and its purpose.
+An explanation of the key elements and functions in the code.
+Comments or annotations within the code to enhance understanding.
+Testing:
+
+Encourage students to test their Solidity smart contract on a development blockchain or testnet (e.g., Ganache or Rinkeby) to ensure its functionality.
+Submission:
+
+Have students submit their Solidity code along with the accompanying documentation.
+Peer Review:
+
+Optionally, facilitate a peer review process where students review and provide feedback on each other's code and documentation.
+Assessment:
+
+Evaluate students based on the quality of their Solidity code, the clarity of their documentation, and their ability to apply Solidity concepts in practice.
+Grading Criteria:
+Assess students based on their ability to write a functional Solidity smart contract, their documentation quality, and their understanding of Solidity basics. Consider the correctness of the code, adherence to best practices, and clarity of explanations.

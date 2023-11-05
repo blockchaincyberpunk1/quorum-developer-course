@@ -1,0 +1,37 @@
+Network Permissioning Best Practices
+
+Objective:
+The objective of this assignment is to encourage students to research and understand best practices for permissioning on Quorum. Students will explore and compile a list of best practices for managing node permissions and access controls, identify security pitfalls, and provide recommendations for addressing these challenges.
+
+Instructions:
+
+Introduction to Permissioning Best Practices:
+
+Begin by introducing the importance of permissioning in Quorum and how it contributes to network security and privacy.
+Emphasize that best practices help ensure that permissioning is effectively implemented.
+Research and Compilation:
+
+Instruct students to conduct research to identify best practices for permissioning on Quorum.
+Ask them to explore various sources, including official documentation, articles, case studies, and expert opinions.
+Encourage students to compile a list of best practices, categorizing them if necessary.
+Security Pitfalls and Challenges:
+
+Have students identify common security pitfalls or challenges associated with permissioning in Quorum.
+Ask them to explain why these pitfalls can be problematic and their potential impact on the network.
+Recommendations and Solutions:
+
+Require students to provide recommendations and solutions for addressing the security pitfalls and challenges they identified.
+Ask them to explain how each recommendation can help mitigate risks and improve permissioning practices.
+Report or Presentation:
+
+Give students the option to present their findings through either a well-structured written report or an oral presentation.
+Submission:
+
+Instruct students to submit their reports or presentation materials, including the list of best practices, security pitfalls, recommendations, and solutions.
+Assessment:
+
+Evaluate students based on the completeness and clarity of their list of best practices.
+Assess the depth of their understanding of security pitfalls and the effectiveness of their recommendations.
+Consider the quality of their written report or the presentation's content and delivery.
+Grading Criteria:
+Assess students based on their ability to research and compile a comprehensive list of permissioning best practices for Quorum. Evaluate the depth of their understanding of security pitfalls and the practicality of their recommendations. For presentations, consider their communication skills and the effectiveness of their delivery.

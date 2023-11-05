@@ -1,0 +1,38 @@
+Case Study on Confidential Transactions
+
+Objective:
+The objective of this assignment is to challenge students to analyze a real-world case study involving Quorum's private transactions. Students will research and analyze a case study where an enterprise or organization successfully implemented private transactions on the Quorum blockchain. They will write a case analysis report highlighting key takeaways and how they can be applied to similar scenarios.
+
+Instructions:
+
+Introduction to the Case Study:
+
+Begin by introducing the selected case study and providing context on why it is relevant.
+Explain the problem the organization faced, why they chose Quorum, and their objectives.
+Research and Analysis:
+
+Assign students to thoroughly research the case study, gathering information on the organization, the Quorum implementation, and the specific use of private transactions.
+Encourage students to analyze the case study in detail, identifying the challenges, solutions, and outcomes.
+Key Takeaways:
+
+Instruct students to extract key takeaways from the case study. What lessons can be learned from this successful implementation?
+Have students consider the benefits of using private transactions, the impact on privacy, and any improvements or optimizations.
+Application to Similar Scenarios:
+
+Require students to discuss how the insights gained from the case study can be applied to similar scenarios or other industries.
+Encourage them to think critically about how private transactions can address common enterprise challenges.
+Case Analysis Report:
+
+Ask students to compile their findings and analysis into a well-structured case analysis report.
+Include sections for introduction, case study details, key takeaways, and application to similar scenarios.
+Ensure the report is well-organized, clear, and concise.
+Submission:
+
+Instruct students to submit their case analysis reports.
+Assessment:
+
+Evaluate students based on the depth of their research and analysis of the case study.
+Assess the quality and relevance of the key takeaways and their ability to apply these insights to similar scenarios.
+Consider the clarity, organization, and overall quality of the case analysis report.
+Grading Criteria:
+Assess students based on their ability to research and analyze the selected case study, their identification of key takeaways, and their thoughtful application of these insights to similar scenarios. Evaluate the quality and clarity of their case analysis report.

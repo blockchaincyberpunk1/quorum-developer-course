@@ -1,0 +1,37 @@
+Creating Confidential Transactions
+
+Objective:
+The objective of this assignment is to familiarize students with the practical implementation of private transactions on the Quorum blockchain using Tessera. Students will gain hands-on experience in creating confidential transactions within a Quorum network.
+
+Instructions:
+
+Introduction to Confidential Transactions:
+
+Provide students with an overview of confidential transactions on the Quorum blockchain and the role of Tessera in ensuring privacy.
+Hands-On Exercise:
+
+Assign a hands-on exercise where students are required to create a confidential transaction within a sample Quorum network or a provided test environment.
+Specify that the transaction should involve transferring a specified amount of cryptocurrency while maintaining confidentiality.
+Step-by-Step Guide:
+
+Provide students with a step-by-step guide that explains the process of creating confidential transactions using Tessera.
+Include instructions on how to configure privacy settings, initiate the transaction, and verify that it remains confidential.
+Documentation:
+
+Instruct students to document their entire process, from configuring privacy settings to verifying the confidentiality of the transaction.
+Encourage them to include screenshots or code snippets where necessary to illustrate their actions.
+Privacy Considerations:
+
+Prompt students to reflect on the importance of privacy in blockchain transactions and why confidential transactions are essential in specific scenarios.
+Challenges and Observations:
+
+Ask students to identify any challenges or observations they encountered during the process of creating confidential transactions.
+Encourage them to share any insights or difficulties they faced.
+Submission:
+
+Have students submit their documentation, which should include a detailed account of their experience in creating confidential transactions.
+Assessment:
+
+Evaluate students based on the accuracy and completeness of their documentation, their ability to successfully create confidential transactions, and their understanding of privacy considerations in blockchain transactions.
+Grading Criteria:
+Assess students based on their ability to follow the provided instructions, document the process effectively, and create confidential transactions successfully. Additionally, consider their reflection on the significance of privacy in blockchain transactions and their awareness of potential challenges in maintaining confidentiality.

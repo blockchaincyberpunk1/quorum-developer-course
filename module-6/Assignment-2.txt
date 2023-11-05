@@ -1,0 +1,38 @@
+Exploit Vulnerabilities
+
+Objective:
+The objective of this coding assignment is to enhance students' understanding of security vulnerabilities in smart contracts by having them actively identify and exploit a deliberately vulnerable smart contract. This exercise will also challenge students to propose solutions for fixing the identified vulnerability.
+
+Instructions:
+
+Introduction to Smart Contract Vulnerabilities:
+
+Begin by providing an overview of common security vulnerabilities in smart contracts, such as reentrancy attacks, unchecked external calls, integer overflows, and more.
+Explain the importance of identifying and mitigating these vulnerabilities to ensure the security of blockchain applications.
+Assignment Description:
+
+Present students with a deliberately vulnerable smart contract written in Solidity. The contract should contain one or more known vulnerabilities, such as a reentrancy vulnerability.
+Provide students with the contract code and a brief description of its functionality. Emphasize that the contract contains vulnerabilities that need to be identified and exploited.
+Exploiting the Vulnerability:
+
+Instruct students to review the vulnerable smart contract and identify the security vulnerability present.
+Ask students to craft malicious transactions or smart contract interactions that exploit the identified vulnerability.
+Students should document the steps they took to exploit the vulnerability, including the code or transactions used.
+Consequences of the Attack:
+
+Have students describe the potential consequences of the attack if it were to occur in a real-world scenario. Discuss the impact on the contract, its users, and the broader blockchain network.
+Proposing Fixes:
+
+Challenge students to propose fixes or modifications to the vulnerable smart contract that would mitigate the identified vulnerability.
+Encourage students to write updated code or provide a description of the changes required to make the contract secure.
+Submission:
+
+Request students to submit their reports, including details of the vulnerability exploitation, potential consequences, and proposed fixes.
+Grading Criteria:
+Evaluate students based on the following criteria:
+
+Accurate identification and exploitation of the vulnerability.
+Thorough description of the steps taken to exploit the vulnerability.
+Clear understanding of the potential consequences of the attack.
+Thoughtful and effective proposals for fixing the vulnerability.
+Clarity and completeness of the submitted report.

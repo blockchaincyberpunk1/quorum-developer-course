@@ -1,0 +1,59 @@
+Navigating Privacy: Understanding Tessera's Privacy Modes in Quorum
+
+Introduction:
+
+In the realm of Quorum development, ensuring transaction privacy is a critical aspect for building trust and confidentiality. As a beginner Quorum developer, comprehending the various privacy modes offered by Tessera is essential for creating applications that align with different privacy requirements. This article aims to provide you with a comprehensive understanding of Tessera's privacy modes, empowering you to navigate the world of Quorum development with a focus on data privacy.
+
+Exploring Tessera's Privacy Modes:
+
+Defining Privacy Modes:
+
+Tessera offers different privacy modes, each catering to specific levels of privacy and confidentiality.
+
+Private Mode: Ensuring Full Confidentiality:
+
+In private mode, only the participants involved in a private transaction have access to the encrypted payload data.
+
+Restricted Mode: Controlled Visibility:
+
+In restricted mode, participants who are part of the transaction's privacy group can access the encrypted payload data, enhancing controlled visibility.
+
+Public Mode: Open for All:
+
+Public mode is suitable for scenarios where transaction data does not require privacy and can be accessed by all participants.
+
+Use Cases for Different Privacy Modes:
+
+Private Mode Use Cases:
+
+Private mode is ideal for confidential business agreements, financial transactions, and sensitive data exchange.
+
+Restricted Mode Use Cases:
+
+Restricted mode is suitable for scenarios where controlled sharing of data among specific participants is required, such as consortium networks.
+
+Public Mode Use Cases:
+
+Public mode can be utilized for scenarios that involve non-sensitive information and require transparency, such as public announcements.
+
+Example Scenario: Implementing Different Privacy Modes in a Supply Chain Network:
+
+Setting Up a Supply Chain Network:
+
+A beginner Quorum developer establishes a supply chain network to demonstrate the implementation of different privacy modes using Tessera.
+
+Utilizing Private Mode:
+
+The developer showcases how private mode ensures full confidentiality for sensitive supply chain transactions.
+
+Implementing Restricted Mode:
+
+The developer explains how restricted mode is employed to control visibility and sharing of transaction data within a supply chain consortium.
+
+Deploying Public Mode:
+
+The developer demonstrates how public mode can be used for non-sensitive supply chain transactions that require transparency.
+
+Conclusion: Navigating the Spectrum of Privacy with Tessera's Modes
+
+For beginner Quorum developers, understanding the various privacy modes offered by Tessera is crucial for building applications that align with different privacy requirements. This article provided insights into Tessera's privacy modes - private, restricted, and public - and their use cases. The example scenario showcased the practical implementation of these modes in a supply chain network. Equipped with this knowledge, you can confidently embark on your journey to develop innovative and secure blockchain solutions on the Quorum platform, tailoring privacy to the specific needs of your applications.

@@ -1,0 +1,35 @@
+Forum Engagement for Quorum Developers
+
+Objective:
+The objective of this coding assignment is to encourage students to actively participate in Quorum developer forums and online communities. By engaging with the Quorum developer community, students will have the opportunity to ask technical questions, share insights, and learn from their peers.
+
+Instructions:
+
+Introduction to Forum Engagement:
+
+Begin by explaining the importance of developer forums and online communities in the blockchain development ecosystem.
+Emphasize that active participation in such forums can help students gain valuable insights, solve problems, and expand their network.
+Forum Selection:
+
+Instruct students to choose one or more Quorum developer forums or online communities to join. Examples may include the Quorum GitHub repository, Stack Overflow, or dedicated Quorum developer forums.
+Technical Question:
+
+Assign each student the task of formulating a thoughtful technical question related to Quorum or blockchain development. The question should be specific, well-researched, and relevant to the chosen forum.
+Encourage students to provide context and any relevant details to help community members understand the issue.
+Engagement Requirement:
+
+Require students to actively engage in forum discussions by responding to at least two questions or comments posted by other community members.
+Students should aim to provide meaningful and constructive responses, helping to address the queries or issues raised by their peers.
+Documentation:
+
+Ask students to document their interactions on the forums. They should keep a record of the questions they asked and the responses they received.
+Instruct students to summarize the key takeaways from the forum discussions, highlighting any solutions or insights gained through their engagement.
+Submission:
+
+Instruct students to submit their forum engagement documentation, including the questions asked, responses provided, and their summaries of key takeaways.
+Grading Criteria:
+Evaluate students based on the following criteria:
+
+Quality and relevance of the technical question posed in the forum.
+The depth and accuracy of responses provided to other community members' questions or comments.
+The completeness and clarity of the documentation, including summaries of key takeaways.

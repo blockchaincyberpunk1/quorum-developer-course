@@ -1,0 +1,35 @@
+Quorum's Privacy Features
+
+Objective:
+The objective of this assignment is to deepen students' understanding of Quorum's privacy-enhancing features and their practical applications.
+
+Instructions:
+
+Research and Exploration:
+
+Assign students the task of researching Quorum's privacy features, focusing on the following aspects:
+Private Transactions: How private transactions work in Quorum, including encryption and decryption processes.
+Confidential Contracts: Explanation of what confidential contracts are and how they ensure data privacy.
+Private Smart Contracts: Understanding how private smart contracts function on Quorum.
+Instruct students to explore Quorum's official documentation, research papers, and any available real-world case studies or examples.
+Report or Presentation:
+
+Ask students to prepare a report or presentation summarizing their findings on Quorum's privacy features.
+Encourage them to include detailed explanations of how each feature enhances privacy, any cryptographic techniques involved, and the mechanisms used to achieve confidentiality.
+Benefits and Use Cases:
+
+Require students to discuss the benefits of Quorum's privacy features, such as enhanced data security, confidentiality, and permissioned network advantages.
+Instruct them to provide real-world use cases or scenarios where Quorum's privacy-enhancing features are crucial.
+Examples and Demonstrations:
+
+Encourage students to include practical examples or demonstrations in their reports or presentations to illustrate how private transactions, confidential contracts, and private smart contracts can be applied within enterprise blockchain solutions.
+Submission and Evaluation:
+
+Collect students' reports or presentation files by the specified deadline.
+Evaluate the assignments based on the depth of understanding, clarity of explanations, inclusion of relevant examples, and overall quality of the work.
+Class Discussion:
+
+After grading, hold a class discussion where students can present their findings and insights.
+Use this discussion as an opportunity to clarify any questions or misconceptions and to reinforce the importance of privacy in enterprise blockchain applications.
+Grading Criteria:
+Students will be evaluated based on the depth of their research, the clarity of their explanations, the relevance of examples, and their ability to convey the benefits and use cases of Quorum's privacy features effectively.

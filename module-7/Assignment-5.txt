@@ -1,0 +1,31 @@
+Blog Contribution
+
+Objective:
+The objective of this coding assignment is to encourage students to actively contribute to the Quorum developer community by sharing their knowledge and insights through a well-crafted blog post. This assignment not only allows students to showcase their understanding but also helps disseminate valuable information within the community.
+
+Instructions:
+
+Assigning Topics:
+
+Assign each student a specific Quorum-related topic. Topics can include tutorials, best practices, technical analyses, or any other subject relevant to Quorum development.
+Ensure that topics are diverse and cover various aspects of Quorum to enrich the community's knowledge base.
+Blog Post Creation:
+
+Instruct students to research and create a comprehensive blog post on their assigned topic. They should aim to provide valuable insights and actionable information.
+Emphasize the importance of clear and concise writing, well-structured content, and the inclusion of visual aids (e.g., diagrams, code snippets) where applicable.
+Publication:
+
+Require students to publish their blog posts on a reputable platform accessible to the public. Suggested platforms include Medium, Dev.to, or personal blogs.
+Ask students to provide a link to their published blog post.
+Sharing with the Community:
+
+Encourage students to actively share their blog posts with the Quorum developer community. They can do this by:
+Posting links to their blog posts on Quorum-related forums or discussion platforms.
+Sharing their posts on social media channels with relevant hashtags.
+Engaging with comments and feedback from the community.
+Grading Criteria:
+Evaluate students' blog contributions based on the following criteria:
+
+Relevance and depth of content: The extent to which the blog post addresses the assigned topic and provides valuable insights.
+Clarity and structure: The quality of writing, organization of content, and clarity of explanations.
+Engagement with the community: The level of effort put into sharing the blog post with the Quorum developer community and engaging with feedback.

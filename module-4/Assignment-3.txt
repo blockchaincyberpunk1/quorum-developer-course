@@ -1,0 +1,44 @@
+Permissioning and Node Management
+
+Objective:
+The objective of this assignment is to strengthen students' understanding of node permissioning and network management techniques on the Quorum blockchain. Students will design a network architecture for an enterprise project using Quorum and define node permissioning rules based on their project's requirements.
+
+Instructions:
+
+Introduction to Permissioning and Node Management:
+
+Provide students with an introduction to permissioning mechanisms in Quorum, emphasizing the importance of controlling access to the network.
+Explain the concept of permissioned nodes and access controls within Quorum.
+Hypothetical Enterprise Project:
+
+Present a hypothetical enterprise project scenario to students. Specify the industry or use case, and describe the goals and requirements of the project.
+Highlight the need for privacy and confidentiality in this project, making it suitable for Quorum.
+Network Architecture Design:
+
+Task students with designing a network architecture for the hypothetical enterprise project using Quorum.
+Instruct them to define the following aspects:
+The number and roles of nodes in the network (e.g., validators, privacy managers).
+The deployment locations of nodes (e.g., on-premises, cloud).
+The connections and communication channels between nodes.
+The privacy considerations and requirements for private transactions.
+Node Permissioning Rules:
+
+Ask students to outline node permissioning rules and access controls for the Quorum network they designed.
+Specify which nodes are permitted to execute private transactions, access sensitive data, or participate in consensus.
+Encourage students to justify their choices based on the project's goals and privacy requirements.
+Rationale and Justification:
+
+Require students to provide a rationale and justification for their network architecture and permissioning rules.
+Ask them to explain how their design aligns with the project's objectives and ensures privacy and security.
+Submission:
+
+Have students submit their network architecture design, including a description of the roles and permissions assigned to each node.
+Assessment:
+
+Evaluate students based on the coherence of their network architecture design, the appropriateness of their permissioning rules, and their ability to justify their choices in the context of the hypothetical enterprise project.
+Grading Criteria:
+Assess students on their ability to design a network architecture that meets the project's requirements and privacy considerations. Additionally, evaluate their clarity in defining permissioning rules and their ability to provide sound justifications for their choices.
+
+
+
+
